@@ -1,4 +1,4 @@
-# Biomanufacturing_Druf_Production_Process_Simulation
+# Biomanufacturing Drug Production Process Simulation
 
 This is part of Master's Coursework project for Simulation Analysis - IE 7215.
 
