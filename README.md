@@ -10,3 +10,5 @@ The following files have been included:
 2. Data available which was used for bootstraping to get the underlying distribution of it.
 3. Project report
 4. Project presentation conveying key ideas, and insights
+5. The main python script which contains the code for running the complete simulation, tracks of KPIs and metrics
+6. A simplified Jackson network based simulation for the same process that aids in validating our simulation model as compared to the actual (real) process
